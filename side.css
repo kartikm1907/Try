@@ -1,0 +1,8 @@
+.container{
+    border:5px outset blueviolet;
+    padding :1rem;
+   margin:2em;
+  outline:.1em solid red;
+  outline-offset: 1px;
+  border-radius: 10% 14% 18% 25%;
+}
